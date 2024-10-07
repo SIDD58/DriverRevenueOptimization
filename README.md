@@ -1,27 +1,17 @@
 # DriverRevenueOptimization
 Maximizing driver revenue based on payment method
 
-Through Payment Type
 
-## MAXIMIZING
-
-## REVENUE FOR
-
-## DRIVERS
+## Maximizing driver revenue based on payment method
 
 
 # Agenda
 
 Data Overview
-
 Problem Statement
-
 Methodology
-
 Analysis and Findings
-
 Research Question Hypothesis Testing
-
 Recommendations
 
 
